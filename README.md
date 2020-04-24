@@ -17,4 +17,6 @@ Since this is a dynamic site. I can't host it in git pages .. Hence I have hoste
 
 https://gouty-hickories.000webhostapp.com/index.php
 
+Since it is a free domain. The load time of the website will be little slow.. Please bare with it..
+
 Please take a look at it.. And my sql file is around 15 mb and I am trying to upload it in github due to poor network I cant upload .. Will upload asap.
