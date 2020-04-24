@@ -13,4 +13,8 @@ The final request session in which user can request for movies of their to add t
 
 ***Thus all the five points for backend judging criteria are satisfied***
 
-I am trying to upload the site in other webhost .. Will mail if it is ready..
+Since this is a dynamic site. I can't host it in git pages .. Hence I have hosted it in my own domain
+
+https://gouty-hickories.000webhostapp.com/index.php
+
+Please take a look at it.. And my sql file is around 15 mb and I am trying to upload it in github due to poor network I cant upload .. Will upload asap.
